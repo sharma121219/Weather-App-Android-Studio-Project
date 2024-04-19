@@ -18,18 +18,7 @@ Here is an overview of the Weather-App project:
 
 ![Weather-App Screenshot](https://user-images.githubusercontent.com/93143666/189376444-9ae93757-7618-410c-a17e-e6dc8ef9c256.png)
 
-## Contact
-
-You can reach out to us through the following channels:
-
-- GitHub: [![GitHub](https://img.shields.io/badge/GitHub-Xavi007-black?style=flat&logo=github)](https://github.com/Xavi007)
-- Instagram: [![Instagram](https://img.shields.io/badge/Instagram-@xavierdias07-c13584?style=flat&logo=instagram)](https://www.instagram.com/xavierdias07/)
-- Facebook: [![Facebook](https://img.shields.io/badge/Facebook-Xavier%20Dias-3b5998?style=flat&logo=facebook)](https://www.facebook.com/profile.php?id=100017097121241)
-
 Feel free to connect with us on these platforms for any inquiries, feedback, or collaboration opportunities.
-
-
-
 # Support 
 If you liked the project, please give it a star ⭐
 
